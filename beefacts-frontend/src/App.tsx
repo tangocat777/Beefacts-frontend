@@ -14,13 +14,6 @@ function App() {
         </h1>
         <BeeFactContainer/>
       </div>
-      <div className="container flex flex-col items-center justify-center mx-auto">
-        <img
-          alt=""
-          className="object-cover object-center w-3/4 mb-10 border shadow-md g327"
-          src="./images/placeholder.png"
-        ></img>
-      </div>
       </section>
   </div>
   </>
