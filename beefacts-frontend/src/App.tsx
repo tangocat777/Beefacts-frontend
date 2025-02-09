@@ -1,5 +1,6 @@
 import React from "react";
 import BeeFactContainer from './BeeFactContainer';
+import BeeSuggestionForm from "./BeeSuggestionForm";
 
 import "./App.css";
 
@@ -13,6 +14,7 @@ function App() {
           Welcome to Mitchell's Bee Facts!
         </h1>
         <BeeFactContainer/>
+        <BeeSuggestionForm/>
       </div>
       </section>
   </div>
